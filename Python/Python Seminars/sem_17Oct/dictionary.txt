@@ -1,0 +1,5 @@
+word
+letter
+symbol
+cube
+tool

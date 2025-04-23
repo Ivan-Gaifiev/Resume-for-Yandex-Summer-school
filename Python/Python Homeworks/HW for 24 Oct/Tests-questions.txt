@@ -1,0 +1,13 @@
+# DELETE THE INSTRUCTION WHEN IT WILL BE READ (leave only your own questions and answers in right format here)
+
+# Writing format for questions and answers to this file:
+# Put your questions in odd lines (1,3,5...)
+# Put answers to them in even lines (2,4,6...), separating them with ', '. Don't forget to add right answer in the end
+
+# Example of questions in this file:
+Who is the president of the Russian Federation?
+Putin, Trump, Biden, Zuganov, Putin
+How old am I?
+12, 32, 63, 18, 43, 18
+How many symbols in word 'wolf':
+2, 5, 4, 4
